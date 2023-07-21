@@ -60,9 +60,9 @@ Options for various skills like driver, painter, carpenter etc.. should be provi
 
 To deploy this project
 
-ADD YOU FIREBASE CONFIGS IN MAIN.DART 
+**ADD YOU FIREBASE CONFIGS IN MAIN.DART **
 
-ADD GOOGLE SERVICES JSON FILE IN ADROID/SRC
+**ADD GOOGLE SERVICES JSON FILE IN ADROID/SRC**
 
 ```
 flutter pub get
@@ -71,5 +71,9 @@ flutter run -d chrome --web-renderer html //To run the project on the web, and w
 ```
 ## Demo
 
-Insert gif or link to demo
+**Authentication**
+![Screenshot_2023-07-21-11-46-17-784_com example jobby](https://github.com/rayy2002/Flutter-Task-Posting-and-Application-App/assets/88958861/0043b4db-9b3b-413f-becf-21b76ca43ddf)
+![Screenshot_2023-07-21-11-45-43-231_com example jobby](https://github.com/rayy2002/Flutter-Task-Posting-and-Application-App/assets/88958861/5c43cfe0-5581-4b15-8640-6b33f42f1e17)
+![Screenshot_2023-07-21-11-45-21-286_com example jobby](https://github.com/rayy2002/Flutter-Task-Posting-and-Application-App/assets/88958861/66f95dfc-9a69-460c-b5e3-a3912c73b6f0)
+
 
