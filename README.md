@@ -69,7 +69,7 @@ flutter pub get
 flutter run //To run the project default output settings
 flutter run -d chrome --web-renderer html //To run the project on the web, and with html so that the images load
 ```
-## Demo
+## DEMO
 
 **Authentication**
 
