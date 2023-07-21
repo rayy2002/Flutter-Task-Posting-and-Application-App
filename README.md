@@ -72,7 +72,23 @@ flutter run -d chrome --web-renderer html //To run the project on the web, and w
 ## Demo
 
 **Authentication**
-![Slide 4_3 - 1](https://github.com/rayy2002/Flutter-Task-Posting-and-Application-App/assets/88958861/7b575dee-56a3-49f4-a964-9c3006fbf20e)
+
+![AUTHENTICATION](https://github.com/rayy2002/Flutter-Task-Posting-and-Application-App/assets/88958861/b999a956-5618-40d6-8ac7-a0707109be92)
+
+**HOME SCREEN AND PRODUCT PAGE**
+
+![home](https://github.com/rayy2002/Flutter-Task-Posting-and-Application-App/assets/88958861/52b243a5-ab27-46c0-89ca-88f07f9c7707)
+
+BEFORE APPLYING USER SHOULD BE VERIFIED FROM THE BACKEND
+
+**SEARCH SCRREN , WISHLIST , ACCOUNT SCREEN**
+
+![WISHLIST AND ACC](https://github.com/rayy2002/Flutter-Task-Posting-and-Application-App/assets/88958861/73921f3f-ad9b-409b-b144-11d3ad09cfc7)
+
+**POST JOB**
+![POST JOB](https://github.com/rayy2002/Flutter-Task-Posting-and-Application-App/assets/88958861/2fc0dae9-7405-472d-87ff-d8b56b7ba4ab)
+
+
 
 
 
